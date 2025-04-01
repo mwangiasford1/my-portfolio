@@ -1,4 +1,3 @@
-
 :root {
   /* Dark theme colors (default) */
   --background: #09090B;
@@ -337,7 +336,7 @@ header.scrolled {
   display: flex;
   flex-direction: row;
   align-items: center;
-  gap: 1rem; /* Fixed: replaced 'space-x-4;' with standard CSS 'gap: 1rem;' */
+  gap: 1rem;
 }
 
 .social-icon {
