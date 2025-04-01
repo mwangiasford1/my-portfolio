@@ -337,7 +337,7 @@ header.scrolled {
   display: flex;
   flex-direction: row;
   align-items: center;
-  space-x-4;
+  gap: 1rem; /* Fixed: replaced 'space-x-4;' with standard CSS 'gap: 1rem;' */
 }
 
 .social-icon {
