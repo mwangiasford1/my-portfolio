@@ -35,7 +35,7 @@ export default function HeroSection() {
             <div className="relative">
               <div className="w-56 h-56 sm:w-64 sm:h-64 md:w-72 md:h-72 lg:w-80 lg:h-80 rounded-full overflow-hidden border-4 border-highlight shadow-xl">
                 <img 
-                  src="https://images.unsplash.com/photo-1488590528505-98d2b5aba04b" 
+                  src="/lovable-uploads/49e0d897-0c6d-40cb-a738-0ffcc5e5d9cb.png" 
                   alt="Asford Mwangi" 
                   className="object-cover w-full h-full"
                 />
