@@ -1,5 +1,4 @@
-
-import { Github, Linkedin, Mail, Twitter } from "lucide-react";
+import { Github, Linkedin, Mail, Twitter, Facebook } from "lucide-react";
 
 export default function Footer() {
   return (
@@ -40,6 +39,15 @@ export default function Footer() {
               >
                 <Twitter className="h-5 w-5" />
                 <span className="sr-only">Twitter</span>
+              </a>
+              <a
+                href="https://www.facebook.com/mary.gathoni.716/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-muted-foreground hover:text-foreground transition-colors"
+              >
+                <Facebook className="h-5 w-5" />
+                <span className="sr-only">Facebook</span>
               </a>
               <a
                 href="mailto:contact@asfordmwangi.com"
